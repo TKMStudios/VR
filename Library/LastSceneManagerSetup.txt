@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/MainScene.unity
-=======
-- path: Assets/Menu/Menu.unity
->>>>>>> aaeccc977231ce2b0f71b7ce5473a9f4f5891cf8
+- path: Assets/VRMovement.unity
   isLoaded: 1
   isActive: 1

@@ -248,12 +248,7 @@ PlayerSettings:
   m_BuildTargetVRSettings:
   - m_BuildTarget: Android
     m_Enabled: 0
-<<<<<<< HEAD
-    m_Devices:
-    - Oculus
-=======
     m_Devices: []
->>>>>>> aaeccc977231ce2b0f71b7ce5473a9f4f5891cf8
   - m_BuildTarget: Metro
     m_Enabled: 0
     m_Devices: []
@@ -265,12 +260,7 @@ PlayerSettings:
     m_Devices: []
   - m_BuildTarget: PS4
     m_Enabled: 0
-<<<<<<< HEAD
-    m_Devices:
-    - PlayStationVR
-=======
     m_Devices: []
->>>>>>> aaeccc977231ce2b0f71b7ce5473a9f4f5891cf8
   - m_BuildTarget: PSM
     m_Enabled: 0
     m_Devices: []
@@ -283,10 +273,7 @@ PlayerSettings:
   - m_BuildTarget: Standalone
     m_Enabled: 1
     m_Devices:
-<<<<<<< HEAD
-=======
     - None
->>>>>>> aaeccc977231ce2b0f71b7ce5473a9f4f5891cf8
     - OpenVR
   - m_BuildTarget: Tizen
     m_Enabled: 0
@@ -312,15 +299,12 @@ PlayerSettings:
   - m_BuildTarget: tvOS
     m_Enabled: 0
     m_Devices: []
-<<<<<<< HEAD
-=======
   - m_BuildTarget: Facebook
     m_Enabled: 0
     m_Devices: []
   - m_BuildTarget: 
     m_Enabled: 0
     m_Devices: []
->>>>>>> aaeccc977231ce2b0f71b7ce5473a9f4f5891cf8
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
   webPlayerTemplate: APPLICATION:Default
@@ -587,15 +571,6 @@ PlayerSettings:
   webGLUseWasm: 0
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
-<<<<<<< HEAD
-    1: CROSS_PLATFORM_INPUT
-    4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    14: MOBILE_INPUT
-    17: MOBILE_INPUT
-    20: MOBILE_INPUT
-    22: MOBILE_INPUT
-=======
     1: CROSS_PLATFORM_INPUT;VRTK_DEFINE_SDK_STEAMVR;VRTK_DEFINE_STEAMVR_PLUGIN_1_2_1_OR_NEWER;VRTK_DEFINE_STEAMVR_PLUGIN_1_2_2_OR_NEWER;VRTK_VERSION_3_2_1;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER
     4: CROSS_PLATFORM_INPUT;MOBILE_INPUT;VRTK_VERSION_3_2_1;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER
     7: CROSS_PLATFORM_INPUT;MOBILE_INPUT;VRTK_VERSION_3_2_1;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER
@@ -612,7 +587,6 @@ PlayerSettings:
     25: VRTK_VERSION_3_2_1;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER
     26: VRTK_VERSION_3_2_1;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER
     27: VRTK_VERSION_3_2_1;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER
->>>>>>> aaeccc977231ce2b0f71b7ce5473a9f4f5891cf8
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 0
