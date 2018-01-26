@@ -178,7 +178,8 @@
     <Compile Include="Assets\Rocks and Boulders 2\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\Rocks and Boulders 2\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Rocks and Boulders 2\Standard Assets\Utility\WaypointProgressTracker.cs" />
-    <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\WhiteboadPen.cs" />
+    <Compile Include="Assets\Scripts\WhiteboardScript.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
