@@ -2,6 +2,7 @@ WindowsStandalone
 d550ee13f4fad1822a6e6b5b8f812a48 Assembly-CSharp.dll:VRTK.UnityEventHelper.VRTK_SDKSetup_UnityEvents
 94d66fcc029f3d76d1d23d64b29c0644 Assembly-CSharp.dll:.SteamVR_Ears
 36a7733bb9c78b502e99fac4e1ba5c26 Assembly-CSharp.dll:Valve.VR.InteractionSystem.LinearAnimation
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.WhiteboardScript
 c6cd185c7eb3f770997e6ae64fa570e2 Assembly-CSharp.dll:VRTK.GrabAttachMechanics.VRTK_FixedJointGrabAttach
 46058ea88328a235365ff40bb6731ec1 Assembly-CSharp.dll:VRTK.Examples.RC_Car
 2cf9854026c5b2311c78f2264e1248f4 Assembly-CSharp.dll:VRTK.VRTK_InteractHaptics
@@ -416,6 +417,7 @@ b8f04bdad423045528c67dfa4c3dca0d Assembly-CSharp.dll:TMPro.Examples.VertexShakeA
 ddf7bcc177bb76ee48477c692dd10cb3 Assembly-CSharp.dll:.SteamVR_TrackedController
 de3bd5567e3262833926d38c717eda54 Assembly-CSharp.dll:.SteamVR_ControllerManager
 c72d0450aff2b64b40ca13b5c11dc841 Assembly-CSharp.dll:VRTK.GrabAttachMechanics.VRTK_SpringJointGrabAttach
+7ff85e6175435971792ec0151ff28711 Assembly-CSharp.dll:.WhiteboadPen
 c2987379ade4bb6ae668b39b5ce2cf82 Assembly-CSharp.dll:.SteamVR_LaserPointer
 b26b3a55de2a8cbeee573d45c8848f09 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.ScreenSpaceAmbientOcclusion
 eb1b98eae58d1c3cddd6ef4553520642 Assembly-CSharp.dll:VRTK.VRTK_EventSystem
@@ -467,6 +469,7 @@ e2b50e4e1e5006d87e7ebe8a724e8f6d Assembly-CSharp.dll:UnityStandardAssets.ImageEf
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 5f2ad81aa8994e8fbe25d1e57afe6773 UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
+9bb117f4d0d6612f92021ed21a67c327 Assembly-CSharp.dll:.IngameMenuManager
 bbd738e0c1a3685c56b4c8ec7f2d4cd5 Assembly-CSharp.dll:.SteamVR_RenderModel
 19fc85c5cf0012f1ecc0a52526c2f4b3 Assembly-CSharp.dll:Valve.VR.InteractionSystem.ArrowHand
 b2e199df7f641ee35e753d546dd93090 Assembly-CSharp.dll:VRTK.UnityEventHelper.VRTK_UIPointer_UnityEvents
@@ -601,6 +604,3 @@ a7fb925992eaa6c7ad4ddffedadd1fb5 Assembly-CSharp.dll:VRTK.Examples.LightSaber
 34e025057ef78b1bf238460cdf6583a3 Assembly-CSharp.dll:TMPro.Examples.ObjectSpin
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.SimpleScript
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.WhiteboardScript
-7ff85e6175435971792ec0151ff28711 Assembly-CSharp.dll:.WhiteboadPen
-9bb117f4d0d6612f92021ed21a67c327 Assembly-CSharp.dll:.IngameMenuManager
