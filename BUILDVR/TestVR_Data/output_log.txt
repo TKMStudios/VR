@@ -1,0 +1,527 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Firepro W4190M (ID=0x6604)
+    Vendor:   ATI
+    VRAM:     2027 MB
+    Driver:   15.201.1101.1005
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\TextMeshPro-2017.1-1.0.56-Runtime.dll (this message is harmless)
+Loading C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\TextMeshPro-2017.1-1.0.56-Runtime.dll into Unity Child Domain
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\max.visuri\Desktop\TKM\Github\VR\BUILDVR\TestVR_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.025 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'controller_left') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'AppButtonInside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'TouchPadInside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'controller_right') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'base') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'VRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'OVRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'OVRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Controller') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'ddcontroller') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_PlayArea') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LocalAvatar') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LocalAvatar') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LeftHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LeftHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'RightHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'RightHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrViewerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'hand_right') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'AppButtonOutside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'TouchPadOutside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'hand_left') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'body') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerPointer') is missing!
+ 
+(Filename:  Line: 1758)
+
+UnloadTime: 0.977920 ms
+Ignoring SDK Setup 'Daydream' because there are some errors with it:
+- The vendor SDK for 'Daydream' is not installed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring SDK Setup 'OculusVR' because there are some errors with it:
+- The vendor SDK for 'Oculus' is not installed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring SDK Setup 'XimmerseVR (Oculus)' because there are some errors with it:
+- The vendor SDK for 'Ximmerse (Oculus)' is not installed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename:  Line: 1396)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3a54 -> priority: 1 
+  Thread -> id: 1a8c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'AppButtonInside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'VRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'hand_right') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'AppButtonOutside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LocalAvatar') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LocalAvatar') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'controller_left') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'OVRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'OVRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'hand_left') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'ddcontroller') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrViewerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'base') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'TouchPadOutside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_PlayArea') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'RightHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'RightHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'TouchPadInside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Controller') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerPointer') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'controller_right') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'body') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LeftHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LeftHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.301018 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 1.870081 ms (FindLiveObjects: 0.217173 ms CreateObjectMapping: 0.072960 ms MarkObjects: 1.395627 ms  DeleteObjects: 0.183466 ms)
+
+Controller on index '1' TRIGGER has been touched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been hairline start with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been pressed with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been hairline end with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been touched with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been touched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been hairline start with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been pressed with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been hairline end with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TRIGGER has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' BUTTON ONE has been touched with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' BUTTON ONE has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' BUTTON ONE has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' BUTTON ONE has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' START MENU has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' START MENU has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been touched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been hairline start with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been pressed with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been hairline end with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been touched with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been touched with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' TOUCHPAD has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been touched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been hairline start with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been pressed with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been hairline end with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '1' GRIP has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been touched with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been touched with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been touched with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been touched with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been pressed down with a pressure of 1 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been released with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller on index '2' TOUCHPAD has been untouched with a pressure of 0 / trackpad axis at: (0.0, 0.0) (90 degrees)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at WhiteboadPen.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
