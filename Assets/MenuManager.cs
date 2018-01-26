@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿////using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -17,6 +17,16 @@ public class MenuManager : MonoBehaviour
     public void LoadLevel()
     {
         SceneManager.LoadScene("MainScene");
+    }
+
+    public void LoadWhiteboardScene()
+    {
+        SceneManager.LoadScene("Whiteboard");
+    }
+
+    public void LoadInteratebleScene()
+    {
+        SceneManager.LoadScene("VRMovement");
     }
 
     public void Options()

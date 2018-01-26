@@ -100,6 +100,7 @@
     <Compile Include="Assets\ErosionBrush\Scripts\Matrix2.cs" />
     <Compile Include="Assets\ErosionBrush\Scripts\Noise.cs" />
     <Compile Include="Assets\ErosionBrush\Scripts\WeldTerrains.cs" />
+    <Compile Include="Assets\IngameMenuManager.cs" />
     <Compile Include="Assets\MenuManager.cs" />
     <Compile Include="Assets\Rocks and Boulders 2\Shaders\RotateGameObject.cs" />
     <Compile Include="Assets\Rocks and Boulders 2\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />

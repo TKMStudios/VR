@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Menu.unity
+    guid: 119e74875afd8d240934e0495d0e2713
+  - enabled: 1
+    path: Assets/VRMovement.unity
+    guid: 3f232c1b0dc46ba47b6964cf759d5aed
+  - enabled: 1
+    path: Assets/Whiteboard.unity
+    guid: d9f721e731000494e9048a6b519b5373
