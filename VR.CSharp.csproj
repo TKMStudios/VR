@@ -92,6 +92,7 @@
   <ItemGroup>
     <Compile Include="Assets\AudioManager\AudioManager.cs" />
     <Compile Include="Assets\AudioManager\Sound.cs" />
+    <Compile Include="Assets\EnemyScript.cs" />
     <Compile Include="Assets\ErosionBrush\ErosionBrush.cs" />
     <Compile Include="Assets\ErosionBrush\Scripts\ArrayTools.cs" />
     <Compile Include="Assets\ErosionBrush\Scripts\Erosion.cs" />
@@ -100,8 +101,10 @@
     <Compile Include="Assets\ErosionBrush\Scripts\Matrix2.cs" />
     <Compile Include="Assets\ErosionBrush\Scripts\Noise.cs" />
     <Compile Include="Assets\ErosionBrush\Scripts\WeldTerrains.cs" />
+    <Compile Include="Assets\Scripts\BulletScript.cs" />
     <Compile Include="Assets\Scripts\IngameMenuManager.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
+    <Compile Include="Assets\Scripts\Scripteble Objects\EnemyPlayers.cs" />
     <Compile Include="Assets\Scripts\WhiteboadPen.cs" />
     <Compile Include="Assets\Scripts\WhiteboardScript.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
