@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Whiteboard.unity
+- path: Assets/_Scenes/VRMovement.unity
   isLoaded: 1
   isActive: 1
