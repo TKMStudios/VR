@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Menu/Menu.unity
+    path: Assets/_Scenes/Menu.unity
     guid: 119e74875afd8d240934e0495d0e2713
   - enabled: 1
-    path: Assets/VRMovement.unity
+    path: Assets/_Scenes/VRMovement.unity
     guid: 3f232c1b0dc46ba47b6964cf759d5aed
   - enabled: 1
-    path: Assets/Whiteboard.unity
+    path: Assets/_Scenes/Whiteboard.unity
     guid: d9f721e731000494e9048a6b519b5373

@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32820db11486bf54b986952898c4a348, type: 3}
   m_Name: Enemy1
   m_EditorClassIdentifier: 
-  name: Test Enemy
+  name: Sven
   skin: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   speed: 3
   health: 100
